@@ -8,14 +8,9 @@ This is a Python script for performing Stopped Vehicle Detection using YOLOv8 (Y
 
 To run this script, you need to have the following installed:
 
-- Python 3
-- OpenCV
-- cvzone
-- numpy
-- math
-- time
-- ultralytics (YOLO)
-- sort
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
